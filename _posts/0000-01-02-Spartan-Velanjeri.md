@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+> where there's a will, there a smith
 Use the left arrow to go back!
